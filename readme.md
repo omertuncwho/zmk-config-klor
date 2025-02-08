@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="/docs/images/klor-font-logo-bright.svg">
   <img alt="KLOR logo font" src="/docs/images/klor-font-logo-bright.svg">
 </picture>
-
+_+_
 # ZMK CONFIG FOR THE KLOR SPLIT KEYBOARD
 
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK config for the KLOR.\
